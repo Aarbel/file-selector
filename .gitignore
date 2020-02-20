@@ -27,9 +27,9 @@ Icon
 
 
 ## Dist
-coverage
-build
-docs
-dist
-out-tsc
-tmp
+# coverage
+# build
+# docs
+# dist
+# out-tsc
+# tmp
