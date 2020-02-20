@@ -13,11 +13,11 @@
     "DataTransfer",
     "File"
   ],
-  "homepage": "https://github.com/react-dropzone/file-selector",
+  "homepage": "https://github.com/Aarbel/file-selector",
   "license": "MIT",
   "author": {
-    "name": "Roland Groza",
-    "email": "rolandjitsu@gmail.com"
+    "name": "Clément Fradet Normand",
+    "email": "clement.fradet.normand@gmail.com"
   },
   "repository": {
     "type": "git",
